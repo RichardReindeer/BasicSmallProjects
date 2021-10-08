@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BasicSmallProjects.iml" filepath="$PROJECT_DIR$/.idea/BasicSmallProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LittleMVC/LittleMVC.iml" filepath="$PROJECT_DIR$/LittleMVC/LittleMVC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SocketCheatRoom/SocketCheatRoom.iml" filepath="$PROJECT_DIR$/SocketCheatRoom/SocketCheatRoom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WebServer/WebServer.iml" filepath="$PROJECT_DIR$/WebServer/WebServer.iml" />
+    </modules>
+  </component>
+</project>

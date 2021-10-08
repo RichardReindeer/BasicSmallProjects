@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding = "utf-8"?>
+<beans>
+    <!--
+        设置处理器 其中 class属性用于设置处理器的类名
+        -->
+    <bean class="com.bambi.demo.HelloController"/>
+    <bean class="com.bambi.demo.LoginController"/>
+</beans>
